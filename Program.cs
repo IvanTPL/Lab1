@@ -187,7 +187,6 @@ namespace Lab1
         }
         public V3MainCollection()
         {
-            count = 0;
             lst = new List<V3Data>();
         }
         public V3Data this[int index]
